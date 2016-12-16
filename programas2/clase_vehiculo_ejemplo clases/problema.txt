@@ -1,0 +1,30 @@
+vehiculo
+-dueño
+-puertas
+-ruedas
+
++ mostrar()
++arrancar()
+.............
+Auto			Camioneta
+-descapitable		-carga
+
++mostrar()		+mostrar()
++subir()		
++bajar()		+cargar()
+
+
+
+
+
+ejemplo 2..........
+Padre
+-a
+
++hijo
+
+
+clase hijo
+-b
++mostrar()
++decir()

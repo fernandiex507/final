@@ -1,0 +1,4 @@
+El nombre es: al
+Dias trabajados: 100.0
+Salario base por dia: 23.0
+Salario Total: 2300.0
